@@ -40,12 +40,12 @@ O Proffy é uma plataforma de estudos online, aonde professores podem oferecer o
 ## 🚀 Como Rodar
 
 - Clone o projeto.
-- Entre na pasta "server" e rode yarn install (pode usar npm install de acordo com a sua configuração).
+- Clona o projeto [nlw2-server](https://github.com/jamangueira7/nlw2-server) e rode yarn install (pode usar npm install de acordo com a sua configuração).
 - yarn start (npm tbm funciona).
 
 
 ##### Mobile
-- Entre na pasta "mobile" e rode yarn install (pode usar npm install de acordo com a sua configuração).
+- Rode yarn install (pode usar npm install de acordo com a sua configuração).
 - Na pasta src/services aquivo api.ts colocar seu IP em baseURL para funcionar.
 - Rode seu ambiente (eu usei o expo).
 
